@@ -1,0 +1,58 @@
+2022-06-20 14:47:15,163 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:48:00,101 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x045B4D50>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:48:05,101 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x045B4D50>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 14:49:03,673 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:50:02,552 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:50:06,601 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x03B066C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:50:24,997 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:50:27,101 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x041416C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:50:32,101 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x041416C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 14:53:42,539 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:53:44,292 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x03C716C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:55:00,538 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:55:02,282 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x041016C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:55:07,283 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x041016C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 14:57:11,318 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:57:13,423 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x045916C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:57:18,421 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x045916C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 14:58:00,943 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:58:02,611 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x036216C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:58:07,611 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x036216C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 14:59:01,418 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 14:59:03,052 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x045016C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 14:59:08,052 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x045016C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 15:41:13,150 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:41:14,701 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x042B16C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 15:42:36,273 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:43:21,700 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:43:23,644 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x03EDE6E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 15:45:25,036 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:45:26,960 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x042F16C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 15:45:31,960 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x042F16C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 15:45:54,102 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:49:52,671 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:49:54,780 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x045B16C0>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 15:49:59,780 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x045B16C0>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 15:50:57,141 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:51:28,772 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:51:30,542 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x03F716E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 15:51:35,542 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x03F716E8>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 15:55:37,171 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 15:55:39,273 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x042D16E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:01:53,908 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:01:55,717 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x041D16E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:03:15,763 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:03:17,513 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x045616E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:03:22,512 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x045616E8>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 16:03:55,596 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:03:57,467 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x037616E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:04:27,059 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:04:28,769 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x038D16E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:04:33,766 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x038D16E8>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 16:09:05,118 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:09:07,184 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x03D016E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:09:12,183 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_error of <bot.NortBot instance at 0x03D016E8>>: on_error() takes exactly 2 arguments (3 given)
+2022-06-20 16:17:10,980 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:17:13,042 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x042516E8>>: on_open() takes exactly 1 argument (2 given)
+2022-06-20 16:23:48,364 : INFO : nortbot.py : 105 : <module>() : __main__ : Starting Nortbot v 1.1.0.7
+2022-06-20 16:23:50,042 : ERROR : _logging.py : 67 : error() : websocket : error from callback <bound method NortBot.on_open of <bot.NortBot instance at 0x041616E8>>: on_open() takes exactly 1 argument (2 given)
